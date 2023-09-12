@@ -1,1 +1,4 @@
-
+vault:
+  appconfig:
+#    token: hvs.CAESIDXyfNE4nSdqoZaNiVHC9mnozIBI0g9LQXu5nG0mSLZXGh4KHGh2cy5HZ3ZpYmlucVl5QXBjdExWOUwxUWl3cXA
+    token: hvs.CAESID6A5sB5tqIUWpz93K-nsAXxoT_Q2-ePM75vJWkxRUuJGh4KHGh2cy5lODUybXp3akNZTTRzZ2dlSUdMZnFudVE

@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class VaultTestApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(VaultTestApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(VaultTestApplication.class, args);
+    }
 
 }
