@@ -70,7 +70,7 @@ public class StringProcessorTest {
 
     class StringProcessor {
         public void process(String[] words) {
-//            String[] words = {"big str", "big str "}; //大字符串数组
+//            String[] words = {"big str", "big str "}; //大字符串数组.
             for (String word : words) {
                 if (word != null && !word.isEmpty()) {
                     System.out.println(word.toUpperCase());
